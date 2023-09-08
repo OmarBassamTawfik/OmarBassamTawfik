@@ -5,6 +5,3 @@
 </h3>
 I'm a CS Sophomore at Nile University
 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-
-### Connect with Me :
-<a href="https://linkedin.com/in/omarbassam" target="_blank"> My Linked-In Profile</a>

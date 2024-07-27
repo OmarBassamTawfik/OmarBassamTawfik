@@ -4,6 +4,6 @@
 </h3>
 <p align="center">
 I am a student at Nile University, majoring in Computer Science and minoring in Business. <br> 
-Driven by a strong will to evolve my knowledge and mindset, I am constantly learning and exploring new technologies.
-My academic journey is motivated by a commitment to continuous improvement and growth, both personally and professionally.
+Driven by a strong will to evolve my knowledge and mindset 🧠✨, I am constantly learning and exploring new technologies💻🔍. <br>
+My academic journey is motivated by a commitment to continuous improvement and growth🚀📈, both personally and professionally.
 </p>
